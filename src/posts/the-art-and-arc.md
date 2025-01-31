@@ -1,6 +1,7 @@
 ---
 title: the art and arc
 description: --
+author: written by an author.
 date: 2019-09-23T04:50:24.332Z
 ---
 
